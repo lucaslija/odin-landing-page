@@ -66,3 +66,13 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: bold;
+    border-style: none;
+    padding: 6px 36px;
+    border-radius: 6px;
+}

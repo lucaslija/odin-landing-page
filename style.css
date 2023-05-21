@@ -11,6 +11,7 @@ body {
     color: #F9FAF8;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     padding: 0 144px;
 }
 
@@ -48,4 +49,12 @@ body {
     font-size: 18px;
     font-weight: thin;
     color: #E5E7EB;
+}
+
+.hero-image {
+    background-color: #6e788c;
+    width: 576px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

@@ -74,5 +74,6 @@ button {
     font-weight: bold;
     border-style: none;
     padding: 6px 36px;
+    margin-top: 12px;
     border-radius: 6px;
 }

@@ -37,12 +37,18 @@ body {
 
 .hero {
     display: flex;
+    gap: 48px;
+}
+
+.hero-text {
+    flex: 1;
 }
 
 .hero-text h2 {
     font-size: 48px;
     font-weight: bold;
     color: #F9FAF8;
+    margin: 0px;
 }
 
 .hero-text p {
@@ -53,8 +59,8 @@ body {
 
 .hero-image {
     background-color: #6e788c;
-    width: 576px;
     display: flex;
+    flex: 1;
     justify-content: center;
     align-items: center;
 }

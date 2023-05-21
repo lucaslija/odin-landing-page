@@ -1,3 +1,33 @@
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.top-bar h1 {
+    font-size: 24px;
+}
+
+.top-bar li {
+    list-style: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero-text h2 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.hero-text p {
+    font-size: 18px;
+    font-weight: thin;
+    color: #E5E7EB;
 }

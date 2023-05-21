@@ -34,6 +34,10 @@ body {
     color: #E5E7EB;
 }
 
+.hero {
+    display: flex;
+}
+
 .hero-text h2 {
     font-size: 48px;
     font-weight: bold;

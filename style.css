@@ -150,6 +150,11 @@ button {
 
 .action .text {
     color: #F9FAF8;
+    padding: 48px;
+}
+
+.action .text h2, p {
+    margin: 0px;
 }
 
 .action button {

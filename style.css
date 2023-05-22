@@ -142,3 +142,7 @@ button {
 .action {
     background-color: #3882F6;
 }
+
+.action .text {
+    color: #F9FAF8;
+}

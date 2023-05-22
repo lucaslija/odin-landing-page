@@ -83,24 +83,58 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 0 144px 96px;
+    gap: 48px;
+    margin: 48px;
+    padding-bottom: 48px;
+}
+
+.info h2 {
+    font-size: 36px;
+    margin: 0px;
 }
 
 .blocks {
     display: flex;
-
+    gap: 48px;
 }
 
 .empty-space {
     border: 3px solid #3882F6;
-    border-radius: 8px;
-    width: 144px;
-    height: 144px;
+    border-radius: 16px;
+    width: 156px;
+    height: 156px;
 }
 
 .items {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+
+.items p {
+    width: 156px;
     text-align: center;
+    margin: 0px;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 96px 240px;
+}
+
+.quote em {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937;
+}
+
+.quote b {
+    font-size: 24px;
+    flex-flow: row;
+    align-self: flex-end;
 }

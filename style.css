@@ -166,6 +166,9 @@ button {
 
 .footer {
     background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    padding: 36px;
 }
 
 .footer p {

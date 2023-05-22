@@ -142,6 +142,9 @@ button {
 .action {
     background-color: #3882F6;
     margin: 96px 180px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
 }
 
 .action .text {

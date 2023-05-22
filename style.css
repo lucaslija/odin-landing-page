@@ -163,3 +163,11 @@ button {
     font-size: 18px;
     padding: 6px 36px;
 }
+
+.footer {
+    background-color: #1F2937;
+}
+
+.footer p {
+    color:#E5E7EB;
+}
